@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @homelyUncle
+- 👋 Hi, my name is Mikhail
 - 🌱 I’m currently learning python
 - 📫 How to reach me: https://t.me/uncle_mike
 
